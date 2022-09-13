@@ -1,0 +1,42 @@
+body{
+    width: 97%;
+   margin:20px;
+}
+h1{
+   color:orangered;
+   text-align: center;
+   background-color: yellow;
+   font-size: 60px;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h2{
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   font-size: 26px;
+}
+.introducao{
+   color: black;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.negrito{
+   color: red;
+}
+p{
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   color:rgb(100, 99, 8)
+}
+li{
+     color:black;
+     padding-left: 0;
+     list-style-position:inside;
+}
+ul{
+   padding: 0;
+}
+a:link{
+   text-decoration: none;
+   color: black;
+}
+a:hover{
+   color: rgb(150, 122, 70);
+   text-decoration: underline;
+}
